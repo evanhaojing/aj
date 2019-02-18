@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+werkzeug
+flask-script
+Django
+PyMySQL
+flask-blueprint
+flask-sqlalchemy
+flask-login
